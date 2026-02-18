@@ -10,7 +10,6 @@ Currently, two official plugins are available:
 
 ```bash
 git clone https://github.com/JeevaPrakasam/ecart-client.git
-cd react-store
 
 ### Install Dependencies
 npm install
