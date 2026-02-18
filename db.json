@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "c7f0",
+      "title": "Jeans",
+      "price": "1000",
+      "category": "women",
+      "description": "women new brand.",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTBJbvHCYpY8USrvQA_EvxC5lID97V6YRm8PrRJzcjEKGGrXV2CNH7XSmDlVPK3rBArLOEVGOkNlo7rQNG7EjKJF0L4x-dc-7wsTC6qX6uE"
+    },
+    {
+      "id": "4113",
+      "title": "Nothing Mobile pro",
+      "price": "10000",
+      "category": "electronics",
+      "description": "new model mobile by nothing",
+      "image": "https://m.media-amazon.com/images/I/31fq7MQx3XL._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "f0fe",
+      "title": "Laptop",
+      "price": "50000",
+      "category": "electronics",
+      "description": "brand new laptop",
+      "image": "https://m.media-amazon.com/images/I/417nAEkgaSL._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "121e",
+      "title": "casual shirt",
+      "price": "1000",
+      "category": "men",
+      "description": "new shirt casual",
+      "image": "https://m.media-amazon.com/images/I/61xXImTCydL._AC_UL320_.jpg"
+    },
+    {
+      "id": "d793",
+      "title": "boat earbuds",
+      "price": "1000",
+      "category": "earbuds",
+      "description": "boat earbuds with 1000mah battery",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRzDL6Wlxu4s6BvHcmzuJ74IBPTHVrYFcDR0eURXa2HiLIpMe7HJpnhVshIklDAasyJN4XFoJeDg8iO66wokuy86lILCm5M7iZaiCFA7Tj9ZnLh1oN4QBMyJk"
+    },
+    {
+      "id": "d67f",
+      "title": "women white tshirt",
+      "price": "111",
+      "category": "women",
+      "description": "women unquie white oversized tshirt",
+      "image": "https://m.media-amazon.com/images/I/41H3l9t4m2L._AC_UL320_.jpg"
+    },
+    {
+      "id": "afed",
+      "title": "one plus earpods",
+      "price": "2000",
+      "category": "earbuds",
+      "description": "one plus new modal earbuds",
+      "image": "https://m.media-amazon.com/images/I/31Wen6gm2JL._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "86c7",
+      "title": "shirt stylish",
+      "price": "999",
+      "category": "men",
+      "description": "men new modal stylish shirt",
+      "image": "https://m.media-amazon.com/images/I/51bPanBllGL._SY606_.jpg"
+    },
+    {
+      "id": "4d11",
+      "title": "realme buds",
+      "price": "2000",
+      "category": "earbuds",
+      "description": "realme Buds T200 Lite Bluetooth in Ear Earbuds,4 Mic, AI ENC for Calls,48 Hours Total Playback with Fast Charging",
+      "image": "https://m.media-amazon.com/images/I/31Fr+Oa+yAL._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+  ]
+}
