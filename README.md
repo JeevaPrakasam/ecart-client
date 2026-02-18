@@ -16,7 +16,7 @@ cd react-store
 npm install
 
 ### Start JSON Server
-json-server --watch db.json --port 5000
+npm run server
 
 ### API endpoint:
 http://localhost:5000/products
